@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+ETL_Deliverable1_starter_code.ipynb
+ETL_Deliverable2_starter_code.ipynb
+ETL_Deliverable3_starter_code.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+__pycache__/
+config.py
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
